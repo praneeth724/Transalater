@@ -1,0 +1,26 @@
+.translation-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .select-language {
+    margin-bottom: 10px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .content h2 {
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .content span {
+    color: #666;
+  }
+  
